@@ -1,1 +1,2 @@
-# Empowering-secondary-students-making-career-choices-accessible-
+# Empowering secondary students making career choices accessible
+This project focuses on making career counseling accessible to secondary-level students, offering personalized guidance through aptitude tests and detailed career paths.It identifies individual skills, interests, and preferences to provide tailored recommendations, ensuring students can explore suitable career options with clarity and confidence. The platform aims to bridge the gap in career awareness, making informed decision-making inclusive and accessible for every secondary child.
